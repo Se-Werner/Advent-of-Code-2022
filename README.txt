@@ -1,0 +1,18 @@
+Author:    Sebastian Werner
+
+Overview:
+Advent of Code is an advent calendar with small programming puzzles every day, created by Eric Wastle (http://was.tl/),
+designed to be solved with any programming language with almost any hardware.
+This repository is my contribution and tries to solve this puzzles.
+I'm not going for highscores, as my goals for these challenges are to reinforce my general coding and problem-solving
+skills and see how far I can go.
+
+Language:
+For my solutions I use Python 3.11, as Python is the language I'm most comfortable with.
+
+Progress Tracker:
+        Part 1  Part 2
+Day 1   []      []
+Day 2   []      []
+Day 3   []      []
+Day 4   []      []

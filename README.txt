@@ -12,7 +12,7 @@ For my solutions I use Python 3.11, as Python is the language I'm most comfortab
 
 Progress Tracker:
         Part 1  Part 2
-Day 1   []      []
+Day 1   [X]     [X]
 Day 2   []      []
 Day 3   []      []
 Day 4   []      []

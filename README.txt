@@ -13,6 +13,12 @@ For my solutions I use Python 3.11, as Python is the language I'm most comfortab
 Progress Tracker:
         Part 1  Part 2
 Day 1   [X]     [X]
-Day 2   []      []
-Day 3   []      []
-Day 4   []      []
+Day 2   [X]     [X]
+Day 3   [X]     [X]
+Day 4   [X]     [X]
+Day 5   []      []
+Day 6   []      []
+Day 7   []      []
+Day 8   []      []
+Day 9   []      []
+Day 10  []      []

@@ -21,6 +21,6 @@ Day 6   [X]     [X]
 Day 7   [X]     [X]
 Day 8   [X]     [X]
 Day 9   [X]     [X]
-Day 10  []      []
+Day 10  [X]     [X]     (Fun one)
 Day 11  []      []
 Day 12  []      []

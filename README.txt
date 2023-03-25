@@ -23,7 +23,7 @@ Day 8   [X]     [X]
 Day 9   [X]     [X]
 Day 10  [X]     [X]     (Fun one)
 Day 11  [X]     []
-Day 12  [X]      []
+Day 12  [X]     [X]
 Day 13  []      []
 Day 14  []      []
 Day 15  []      []
